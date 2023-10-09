@@ -3,7 +3,7 @@
 <H1> Telegram</H1> 
 
 In deze manual ga je de volgende stappen doorlopen om zo goed mogelijk een telegram te maken.
-De bron van deze stappen is afkomstig van: 
+De bron van deze stappen is afkomstig van: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 
 
 <H2>Wat je nodig hebt:</H2>
@@ -11,6 +11,18 @@ De bron van deze stappen is afkomstig van:
   <li>ESP8266 NodeMCU board</li>
   <li>LED light</li>
   <li>Download Zip file</li>
+</ol>
+
+<H2>Hoe het werkt:</H2>
+<ol>
+  <li>Telegram Messenger is een cloud-gebaseerde instant messaging en voice over IP dienst. Je kunt het eenvoudig installeren op je smartphone (Android en iPhone) of computer (PC, Mac en Linux). Het is gratis en zonder advertenties. Met Telegram kun je bots maken waarmee je kunt communiceren.
+
+"Bots zijn applicaties van derden die in Telegram draaien. Gebruikers kunnen communiceren met bots door ze berichten, commando's en inline requests te sturen. Je bestuurt je bots met behulp van HTTPS-verzoeken aan Telegram Bot API".
+
+De ESP32/ESP8266 zal communiceren met de Telegram bot om berichten te ontvangen en af te handelen, en antwoorden te sturen. In deze tutorial leer je hoe je Telegram kunt gebruiken om berichten naar je bot te sturen om de ESP uitgangen overal vandaan te besturen (je hebt alleen Telegram en toegang tot het internet nodig)./li>
+
+<li>Informatie afkomstig van: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/</li>
+ 
 </ol>
 
 
