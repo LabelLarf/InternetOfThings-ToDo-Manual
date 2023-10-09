@@ -78,19 +78,14 @@ Nadat je de code hebt geüpload, druk je op de EN/RST-knop op het ESP32/ESP8266-
 
 Ga naar je Telegram-account en open een conversatie met je bot. Stuur de volgende commando's en zie hoe de bot reageert:</li>
 
+</ol>
+<ul>
 <li>/start shows the welcome message with the valid commands.</li>
 <li>/led_on turns the LED on. </li>
 <li>/led_off turns the LED off.</li>
 <li>/state requests the current LED state.</li>
-
-
-  
-  <br>
-  
-</ol>
+</ul>
 
 
 
-
-
-Alle informatie komt van: . 
+Alle informatie komt van: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/. 
