@@ -18,15 +18,19 @@ De bron van deze stappen is afkomstig van:
 <ol>
   <li>Ga op je telefoon naar de google / apple store en download de applicatie: Telegram. </li>
   <img src="playstore.jpeg" width="200">
+  <br>
 
   <li> Maak vervolgens jouw account aan en wanneer deze gereed is, klik je op het zoek icoontje rechts bovenin. </li>
   <img src="2.jpeg" width="200">
+  <br>
 
   <li> Zoek vervolgens op: botfather en klik op het account. </li>
   <img src="3.jpeg" width="200">
+  <br>
 
    <li> Als deze geopend is, klik dan op start.</li>
   <img src="4.jpeg" width="200">
+  <br>
 </ol>
 
 <H2>Stap 2: </H2>
