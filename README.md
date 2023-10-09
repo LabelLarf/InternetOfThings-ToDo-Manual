@@ -49,6 +49,10 @@ De bron van deze stappen is afkomstig van:
   <img src="8.jpeg" width="200">
   <br>
 
+  <li>Typ vervolgens: /getid . Je krijgt nu een User ID, ook deze moet je opslaan voor later.</li>
+  <img src="9.jpeg" width="200">
+  <br>
+
 
 
   
