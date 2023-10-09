@@ -31,6 +31,15 @@ De bron van deze stappen is afkomstig van:
    <li> Als deze geopend is, klik dan op start.</li>
   <img src="4.jpeg" width="200">
   <br>
+
+  <li> Typ nu in: /newbot in je tekstvlak en verstuur deze. Maak nu een naam en een username aan voor jouw bot.</li>
+  <img src="5.jpeg" width="200">
+  <br>
+
+   <li> Als deze beschikbaar is en, krijg je een berichtje met je een link voor access voor jouw bot en een bot token. Sla deze bot token ergens op, zodat je deze later kan invoeren voor je Arduino Board.</li>
+  <img src="6.jpeg" width="200">
+  <br>
+  
 </ol>
 
 <H2>Stap 2: </H2>
