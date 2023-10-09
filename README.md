@@ -36,16 +36,22 @@ De bron van deze stappen is afkomstig van:
   <img src="5.jpeg" width="200">
   <br>
 
-   <li> Als deze beschikbaar is en, krijg je een berichtje met je een link voor access voor jouw bot en een bot token. Sla deze bot token ergens op, zodat je deze later kan invoeren voor je Arduino Board.</li>
+  <li> Als deze beschikbaar is en, krijg je een berichtje met je een link voor access voor jouw bot en een bot token. Sla deze bot token ergens op, zodat je deze later kan invoeren voor je Arduino Board.</li>
   <img src="6.jpeg" width="200">
   <br>
   
 </ol>
 
-<H2>Stap 2: </H2>
+<H2>Stap 2: Telegram User ID</H2>
 <ol>
-<li> Ga naar https://io.adafruit.com/ en maak een gratis account aan. </li>
-<li> Als deze is aangemaakt ga je naar https://io.adafruit.com/overview (Dit was voor mij niet duidelijk, als het niet te vinden is, ga in google en zoek Adafruit overview. Dan kom je op de goede pagina terecht.) </li>
+  <li>Ga naar je telegram account en zoek voor IDBot. Ik kon deze optie niet vinden, dus heb ik deze link gekopiert en geplakt in mijn mobiel: t.me/myidbot . Klik vervolgens op START</li>
+  <img src="7.jpeg" width="200">
+  <img src="8.jpeg" width="200">
+  <br>
+
+
+
+  
 </ol>
 
 
