@@ -86,6 +86,10 @@ Ga naar je Telegram-account en open een conversatie met je bot. Stuur de volgend
 <li>/state requests the current LED state.</li>
 </ul>
 
+<li>Heb je een error? Check even of de code aan het eind af sluit met een } teken voor ieder stukje code. Deze miste bij mij en zorgde ervoor dat mijn code niet werkte.</li>
 
+<li>Bij mij lukte het helaas niet om de LED aan en uit te krijgen. Wel was er een verbinding, aangezien ik met mijn bot wel deze aan en uit kon krijgen in de app en in de serializer kon zien. </li>
+<img src="13.jpeg" width="300">
+<img src="14.jpeg" width="300">
 
 Alle informatie komt van: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/. 
