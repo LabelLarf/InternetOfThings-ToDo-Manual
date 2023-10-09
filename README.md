@@ -42,6 +42,8 @@ De bron van deze stappen is afkomstig van:
   
 </ol>
 
+
+
 <H2>Stap 2: Telegram User ID</H2>
 <ol>
   <li>Ga naar je telegram account en zoek voor IDBot. Ik kon deze optie niet vinden, dus heb ik deze link gekopiert en geplakt in mijn mobiel: t.me/myidbot . Klik vervolgens op START</li>
@@ -52,9 +54,19 @@ De bron van deze stappen is afkomstig van:
   <li>Typ vervolgens: /getid . Je krijgt nu een User ID, ook deze moet je opslaan voor later.</li>
   <img src="9.jpeg" width="200">
   <br>
+  
+</ol>
 
 
+<H2>Stap 3: Arduino klaar zetten</H2>
+<ol>
+  <li>Het is belangrijk om voor deze stap de Universal Arduino Telegram Bot Library te dowloaden in jouw Arduino appliactie op jouw computer. Om deze te dowloaden ga je naar: Sketch > Include Library > Add.ZIP Library | en gebruik je deze zip file: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/archive/master.zip| Om deze te installeren.</li>
+  <img src="10.jpeg" width="300">
+  <br>
 
+  <li>Installeer ook de ArduinoJson Library. Ga naar Skech > Include Library > Manage Libraries | en zoek voor: ArduinoJson en installeer deze.</li>
+  <img src="11.jpeg" width="300">
+  <br>
   
 </ol>
 
