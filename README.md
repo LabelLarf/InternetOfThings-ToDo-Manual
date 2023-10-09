@@ -8,9 +8,9 @@ De bron van deze stappen is afkomstig van:
 
 <H2>Wat je nodig hebt:</H2>
 <ol>
-  <li>Ins</li>
-  <li></li>
-  <li>S</li>
+  <li>ESP8266 NodeMCU board</li>
+  <li>LED light</li>
+  <li>Download Zip file</li>
 </ol>
 
 
