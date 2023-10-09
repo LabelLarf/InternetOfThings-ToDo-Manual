@@ -17,7 +17,7 @@ De bron van deze stappen is afkomstig van:
 <H2>Stap 1: </H2>
 <ol>
   <li>Ga op je telefoon naar de google / apple store en download de applicatie: Telegram/li>
-  <img src="playstore.jpeg">
+  <img src="playstore.jpeg" width="100">
 </ol>
 
 <H2>Stap 2: </H2>
