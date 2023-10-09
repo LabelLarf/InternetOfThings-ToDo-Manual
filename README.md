@@ -97,6 +97,8 @@ Ga naar je Telegram-account en open een conversatie met je bot. Stuur de volgend
 <li>/state requests the current LED state.</li>
 </ul>
 
+
+<H2>Errors?</H2>
 <li>Heb je een error? Check even of de code aan het eind af sluit met een } teken voor ieder stukje code. Deze miste bij mij en zorgde ervoor dat mijn code niet werkte.</li>
 
 <li>Bij mij lukte het helaas niet om de LED aan en uit te krijgen. Wel was er een verbinding, aangezien ik met mijn bot wel deze aan en uit kon krijgen in de app en in de serializer kon zien. </li>
